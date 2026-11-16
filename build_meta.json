@@ -1,0 +1,26 @@
+{
+  "ia": {
+    "file": "ia_narigudo.mp4",
+    "duration": 150.36,
+    "bytes": 20326913,
+    "voice": "es-MX-DaliaNeural",
+    "title_burn": "2026 ESA NARIZ GRITA",
+    "clips": 34
+  },
+  "fe": {
+    "file": "fe_ebed.mp4",
+    "duration": 155.03,
+    "bytes": 17837233,
+    "voice": "es-MX-JorgeNeural",
+    "title_burn": "2026 TRAPOS, NO FUEGO",
+    "clips": 37
+  },
+  "cu": {
+    "file": "cu_piel.mp4",
+    "duration": 136.0,
+    "bytes": 19377907,
+    "voice": "es-CO-SalomeNeural",
+    "title_burn": "2026 LA PIEL HABLA",
+    "clips": 35
+  }
+}
